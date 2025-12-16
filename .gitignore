@@ -1,0 +1,6 @@
+venv/
+dist/
+build/
+*.exe
+startup_log.txt
+__pycache__/
