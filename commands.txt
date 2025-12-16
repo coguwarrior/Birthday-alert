@@ -1,0 +1,5 @@
+cd /c/Users/admin/birthday_alert
+source venv/Scripts/activate
+python birthday.py
+pyinstaller --onefile --noconsole birthday.py
+deactivate
