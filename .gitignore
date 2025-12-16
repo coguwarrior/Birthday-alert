@@ -1,6 +1,9 @@
+Birthday/
 venv/
 dist/
 build/
 *.exe
+*.spec
+data.xlsx
 startup_log.txt
 __pycache__/
